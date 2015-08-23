@@ -1,0 +1,39 @@
+
+/* custom css */
+
+#navbar{
+  float:left;
+  list-style-type: none;
+  background:#ebebeb;
+  width: 100%;
+  margin: 0;
+  padding-left:10px;
+}
+
+#navbar li{
+  float:left;
+  width: 120px;
+  padding-left: 10px;
+}
+
+.nav_seperator{
+  width:100%;
+  float:left;
+}
+
+.row{
+  width: 100%;
+  margin: 0;
+  max-width: none;
+}
+
+.actions.columns{
+  margin-top:0px;
+  border-left: 0;
+  padding:0;
+  padding-left: 10px;
+}
+
+.index table{
+  margin-top:10px;
+}
