@@ -33,6 +33,8 @@ $cakeDescription = 'Right Skillset';
     <?= $this->Html->css('base.css') ?>
     <?= $this->Html->css('cake.css') ?>
     <?= $this->Html->css('custom.css') ?>
+    <?= $this->Html->css('landing-page.css') ?>
+    <?= $this->Html->css('../font-awesome/font-awesome.css') ?>
 
     <?= $this->fetch('meta') ?>
     <?= $this->fetch('css') ?>
